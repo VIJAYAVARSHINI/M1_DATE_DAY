@@ -6,7 +6,7 @@ Codacy
 
 Codiga
 
-https://api.codiga.io/project/32438/score/svg
+https://api.codiga.io/project/32438/score/svg 
 
 https://api.codiga.io/project/32438/status/svg
 
