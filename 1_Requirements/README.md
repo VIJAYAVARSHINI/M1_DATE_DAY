@@ -28,6 +28,8 @@ A book suggestion is also provided at the end for one's benefit.
 -  Incase of future date-can add tasks or notes or appointment and remainders or birthdays.
 ### Threats
 - Its a simple system so doesn't involve threat unless the system is linked to personal or google account.
+## TimeLine
+Problem Statement --> Research --> Plan --> Design --> Implement --> Testing --> Execution.
 ## 4W's and 1'H
 - **WHAT** : Day Generating System for any date for any year.
 - **WHERE** : Used by public for planning future events, used by some public/private portal bookings.
