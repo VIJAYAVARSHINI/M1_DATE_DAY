@@ -1,17 +1,15 @@
-name: Analyse - windows
-
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+name: cppcheck-action
+on: [push]
 
 jobs:
   build:
-
-    runs-on: windows-latest
-
+    name: cppcheck
+    runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - name: analyse
-      run: cppcheck gcc 3_Implementation/day_v2.c 3_Implementation/day_v3.c 3_Implementation/test_validateDate.c 3_Implementation/unity.c 3_Implementation/unity.h 3_Implementation/unity_internals.h
+      - uses: actions/checkout@v2
+        
+      - name: Install cppcheck
+        run: sudo apt-get -y install cppcheck
+      - name: Cppcheck code
+        run: cppcheck 3_Implementation 
+      
