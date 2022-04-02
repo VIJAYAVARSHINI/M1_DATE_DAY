@@ -9,10 +9,10 @@ on:
 jobs:
   build:
 
-    runs-on: Windows 
+    runs-on: windows 
 
     steps:
     - uses: actions/checkout@v3
     - name: build
-      run: make -C 3_Implementation
+      run: gcc day_v2.c day_v3.c test_validateDate.c unity/unity.c -Iunity
     
