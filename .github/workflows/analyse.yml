@@ -14,6 +14,6 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Install
-      run: sudo apk-get install cppcheck
+      run: sudo apt-get install cppcheck
     - name: analyse
       run: cppcheck --enable=all 3_Implementation
