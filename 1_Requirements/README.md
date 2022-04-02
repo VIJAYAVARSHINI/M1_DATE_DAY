@@ -29,27 +29,23 @@ A book suggestion is also provided at the end for one's benefit.
 ### Threats
 - Its a simple system so doesn't involve threat unless the system is linked to personal or google account.
 ## 4W's and 1'H
-- **WHAT** : Library Management System.
-- **WHERE** : Used in Public libraries, University libraries etc.
-- **WHEN** : When new edition of books have to be added or to search required books.
-- **WHY** : To know the availiabilty of the total number of books.
-- **HOW** : Operates by using login credentials.
+- **WHAT** : Day Generating System for any date for any year.
+- **WHERE** : Used by public for planning future events, used by some public/private portal bookings.
+- **WHEN** : When someone has a query to lookup to a specific day and date.
+- **WHY** : Instead of scrolling down a calendar a particular day for a particular date can be found by this project.
+- **HOW** : Operated by filling the given date credentials.
 ## Detail requirements
 ### High Level Requirements
 | High Level Requirements      | Description |
 | ----------- | ----------- |
-| HLR1      | Login     |
-| HLR1   | Login     |
-| HLR2   | View Menu|
-| HLR3   | Search  |
+| HLR1      | Valid Date     |
+| HLR2   | Specified Format     |
+
 
 ### Low Level Requirements
 | Low Level Requirements      | Description |
 | ----------- | ----------- |
-| HLR1_LLR1  | Login(Username,Password) |
-| HLR2_LLR1   | Menu - Add Book|
-| HLR2_LLR2   | Menu - Display/list Books|
-| HLR2_LLR3   | Menu - Count total number of Books|
-| HLR2_LLR4   | Menu - Exit|
-| HLR3_LLR1   | Search - By author name|
-| HLR3_LLR2   | Search - By title|
+| HLR1_LLR1  | Date - In DD format|
+| HLR1_LLR2   | Month - In MM format|
+| HLR1_LLR3   | Year - In YYYY format|
+| HLR2_LLR1   | Format DD-MM-YYYY|
