@@ -9,9 +9,9 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
     - uses: actions/checkout@v3
     - name: analyse
-      run: cppcheck --enable=all 3_Implementation
+      run: cppcheck gcc 3_Implementation/day_v2.c 3_Implementation/day_v3.c 3_Implementation/test_validateDate.c 3_Implementation/unity.c 3_Implementation/unity.h 3_Implementation/unity_internals.h
