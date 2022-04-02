@@ -12,4 +12,8 @@ Windows
 
 [![Build CI - windows](https://github.com/VIJAYAVARSHINI/M1_MARCH_2022/actions/workflows/c-develop.yml/badge.svg)](https://github.com/VIJAYAVARSHINI/M1_MARCH_2022/actions/workflows/c-develop.yml)
 
+Analysis
+
+[![Analysis](https://github.com/VIJAYAVARSHINI/M1_MARCH_2022/actions/workflows/analyse.yml/badge.svg)](https://github.com/VIJAYAVARSHINI/M1_MARCH_2022/actions/workflows/analyse.yml)
+
 
