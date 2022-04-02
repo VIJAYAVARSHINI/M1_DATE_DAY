@@ -14,5 +14,5 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: build
-      run: gcc day_v2.c day_v3.c test_validateDate.c unity/unity.c -Iunity
+      run: gcc day_v2.c day_v3.c test_validateDate.c unity/unity.c -Iunity -C 3_Implementation
     
