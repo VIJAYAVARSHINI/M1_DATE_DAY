@@ -16,4 +16,8 @@ Analyses
 
 [![Analyses - Linux](https://github.com/VIJAYAVARSHINI/M1_DATE_DAY/actions/workflows/analyses.yml/badge.svg)](https://github.com/VIJAYAVARSHINI/M1_DATE_DAY/actions/workflows/analyses.yml)
 
+Cpp Check
+
+[![cppcheck-action](https://github.com/VIJAYAVARSHINI/M1_DATE_DAY/actions/workflows/cppchk.yml/badge.svg)](https://github.com/VIJAYAVARSHINI/M1_DATE_DAY/actions/workflows/cppchk.yml)
+
 
