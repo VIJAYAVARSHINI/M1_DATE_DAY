@@ -4,6 +4,11 @@ Codacy
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/190b6321a516411c8a4cd108bdeb2130)](https://www.codacy.com/gh/VIJAYAVARSHINI/M1_DATE_DAY/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=VIJAYAVARSHINI/M1_DATE_DAY&amp;utm_campaign=Badge_Grade)
 
+Codiga
+
+https://api.codiga.io/project/32438/score/svg
+https://api.codiga.io/project/32438/status/svg
+
 Linux
 
 [![Build CI](https://github.com/VIJAYAVARSHINI/M1_MARCH_2022/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/VIJAYAVARSHINI/M1_MARCH_2022/actions/workflows/c-cpp.yml)
