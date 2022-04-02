@@ -34,6 +34,6 @@ Valgrind Testing
 
 [![Valgrind](https://github.com/VIJAYAVARSHINI/M1_DATE_DAY/actions/workflows/valgrind.yml/badge.svg)](https://github.com/VIJAYAVARSHINI/M1_DATE_DAY/actions/workflows/valgrind.yml)
 
-Contribution Check
+Git Inspector
 
 [![Contribution Check - Git Inspector](https://github.com/VIJAYAVARSHINI/M1_DATE_DAY/actions/workflows/contribute.yml/badge.svg)](https://github.com/VIJAYAVARSHINI/M1_DATE_DAY/actions/workflows/contribute.yml)
