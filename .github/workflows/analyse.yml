@@ -1,0 +1,19 @@
+name: Analyses
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Install
+      run: sudo apk-get install cppcheck
+    - name: analyse
+      run: cppcheck --enable=all 3_Implementation
