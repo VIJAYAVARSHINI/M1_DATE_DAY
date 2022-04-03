@@ -1,4 +1,4 @@
-# M1_MARCH_2022
+# M1_DAY_DATE
 #Badges
 
 Codacy
@@ -29,10 +29,6 @@ Cpp Check
 Unit Testing
 
 [![Unit testing](https://github.com/VIJAYAVARSHINI/M1_DATE_DAY/actions/workflows/unit_test.yml/badge.svg)](https://github.com/VIJAYAVARSHINI/M1_DATE_DAY/actions/workflows/unit_test.yml)
-
-Valgrind Testing
-
-[![Valgrind](https://github.com/VIJAYAVARSHINI/M1_DATE_DAY/actions/workflows/valgrind.yml/badge.svg)](https://github.com/VIJAYAVARSHINI/M1_DATE_DAY/actions/workflows/valgrind.yml)
 
 Git Inspector
 
