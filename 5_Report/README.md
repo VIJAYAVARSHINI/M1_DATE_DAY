@@ -2,6 +2,12 @@
 
 # TITLE : DAY GENERATION
 
+ * @author VIJAYA VARSHINI K
+ * @brief Validating the day of the week, for a given date along with a message and a book suggession
+ * @version 0.1
+ * @date 2022-04-03
+ * @copyright Copyright (c) 2022
+
 ## Introduction 
 The main aim of this project is to display the day of the week, when the user provides a random date.  
 In addition to the displaying of the day to the specified date, the program checks whether the input provided is a valid date or not.
