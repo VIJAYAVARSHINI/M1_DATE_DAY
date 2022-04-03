@@ -1,6 +1,6 @@
 # REPORT 
 
-# TITLE : DAY GENERATION
+# TITLE : DAY_DATE GENERATION
 
  * @author VIJAYA VARSHINI K
  * @brief Validating the day of the week, for a given date along with a message and a book suggession
