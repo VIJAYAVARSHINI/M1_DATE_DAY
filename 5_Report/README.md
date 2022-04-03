@@ -47,7 +47,8 @@ Problem Statement --> Research --> Plan --> Design --> Implement --> Testing -->
 - **WHEN** : When someone has a query to lookup to a specific day and date.
 - **WHY** : Instead of scrolling down a calendar a particular day for a particular date can be found by this project.
 - **HOW** : Operated by filling the given date credentials.
-## Detail requirements
+
+## Requirements
 ### High Level Requirements
 | High Level Requirements      | Description |
 | ----------- | ----------- |
