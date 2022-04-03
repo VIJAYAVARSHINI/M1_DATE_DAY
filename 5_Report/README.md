@@ -1,4 +1,6 @@
-# Requirements 
+# REPORT 
+
+# TITLE : DAY GENERATION
 
 ## Introduction 
 The main aim of this project is to display the day of the week, when the user provides a random date.  
