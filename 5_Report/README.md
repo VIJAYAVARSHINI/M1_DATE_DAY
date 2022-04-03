@@ -16,17 +16,6 @@ A book suggestion is also provided at the end for one's benefit.
 - Suggession of a book is provided
 - Negative or invalid dates will be deliver that output is invalid
 
-## Softwares Used
-- Visual Studio Code
-- GCC Compiler
-- WSL
-- Make Installer
-- Cpp Check
-- Valgrind
-
-## TimeLine
-Problem Statement --> Research --> Plan --> Design --> Implement --> Testing --> Execution.
-
 ## SWOT- Strengths, and Weakness, Opportunities Threats
 ### Strengths
 - User Friendly
@@ -50,6 +39,13 @@ Problem Statement --> Research --> Plan --> Design --> Implement --> Testing -->
 - **WHY** : Instead of scrolling down a calendar a particular day for a particular date can be found by this project.
 - **HOW** : Operated by filling the given date credentials.
 
+## TimeLine
+Problem Statement --> Research --> Plan --> Design --> Implement --> Testing --> Execution.
+
+## Block Diagram
+
+![Block Diagram drawio](https://user-images.githubusercontent.com/101562511/161425522-22cfef99-ff48-4541-a906-d54690c6d7db.png)
+
 ## Requirements
 ### High Level Requirements
 | High Level Requirements      | Description |
@@ -65,6 +61,14 @@ Problem Statement --> Research --> Plan --> Design --> Implement --> Testing -->
 | HLR1_LLR2   | Month - In MM format|
 | HLR1_LLR3   | Year - In YYYY format|
 | HLR2_LLR1   | Format DD-MM-YYYY|
+
+## Softwares Used
+- Visual Studio Code
+- GCC Compiler
+- WSL
+- Make Installer
+- Cpp Check
+- Valgrind
 
 ## Testing
 - Manual Testing
