@@ -1,2 +1,2 @@
-	@mainpage Day_Date Application by "Your name"
+	@mainpage Day_Date Application by Vijaya Varshini K
 	@subpage day.h
